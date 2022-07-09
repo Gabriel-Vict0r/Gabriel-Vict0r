@@ -2,8 +2,7 @@
 
   ##
 
-- 🌱 Estudando desenvolvimento Web, especificamente a stack (HTML5, CSS3, JS e React.Js)
-- 👯 Em busca de uma oportunidade como desenvolvedor web
+- 🌱 Estudando desenvolvimento Web (HTML | CSS | Javascript | Node.js | Express)
 - 📫 Email para contato: victorgabriel730@gmail.com
 
 <div align="center">
