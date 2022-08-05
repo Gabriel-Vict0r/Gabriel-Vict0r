@@ -2,7 +2,7 @@
 
   ##
 
-- 🌱 Estudando desenvolvimento Web (HTML | CSS | Javascript | Node.js | Express)
+- 🌱 Estudando desenvolvimento Web (HTML | CSS | Javascript | Node.js | Express | React.Js)
 - 📫 Email para contato: victorgabriel730@gmail.com
 
 <div align="center">
