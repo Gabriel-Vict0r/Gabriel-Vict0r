@@ -1,9 +1,9 @@
-  ## Olá! Eu sou Gabriel Victor 
+  ## Hello! I'm Gabriel Victor 
 
   ##
 
-- 🌱 Estudando desenvolvimento Web (HTML | CSS | Javascript | Node.js | Express | React.Js)
-- 📫 Email para contato: victorgabriel730@gmail.com
+- 🌱 Studyng Web Development (HTML | CSS | Javascript | Node.js | Express | React.Js)
+- 📫 Email contact: victorgabriel730@gmail.com
 
 <div align="center">
   <a href="https://github.com/Gabriel-Vict0r">
