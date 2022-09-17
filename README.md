@@ -4,6 +4,7 @@
 
 - 🌱 studying Web Development (HTML | CSS | Javascript | Node.js | Express | React.Js)
 - 📫 Email for contact: victorgabriel730@gmail.com
+- :rocket: pt-BR/en-US
 
 <div align="center">
   <a href="https://github.com/Gabriel-Vict0r">
