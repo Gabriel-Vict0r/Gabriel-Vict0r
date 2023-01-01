@@ -3,7 +3,7 @@
   ##
 
 - 🌱 
-Studying Web Development (HTML | CSS | Javascript | Node.js | Express | React.Js | styled-components)
+Studying Web Development (Javascript | React.js | styled-components)
 - 📫 Email for contact: victorgabriel730@gmail.com
 - :rocket: pt-BR/en-US
 
