@@ -3,7 +3,7 @@
   ##
 
 - 🌱 
-Studying Web Development ( Javascript | React.js | styled-components | Sass )
+Studying Web Development ( Javascript | React.js | styled-components | Sass | Unit Testing)
 - 📫 Email for contact: victorgabriel730@gmail.com
 - :rocket: pt-BR/en-US
 
