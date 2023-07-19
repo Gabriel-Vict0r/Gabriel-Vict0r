@@ -19,8 +19,7 @@ Studying Web Development ( Javascript | React.js | TypeScript| styled-components
       <img align="center" alt="Gabriel-CSS" height="50" width="50" src="https://cdn-icons-png.flaticon.com/512/9496/9496599.png" style="margin-left:50px;">
   <img align="center" alt="Gabriel-php" height="50" width="50" src="https://cdn-icons-png.flaticon.com/512/9277/9277351.png" style="margin-left:50px;">
     <img align="center" alt="Gabriel-Js" height="50" width="50" src="https://cdn-icons-png.flaticon.com/512/9496/9496595.png" style="margin-left:50px;">
-    <img align='center' alt='gabriel-TS' height='50' width='50' src="![image](https://github.com/Gabriel-Vict0r/Gabriel-Vict0r/assets/46754034/1e416097-85e6-43e0-a5cc-cc27b7b4a952)
-" title="typescript icons" stype='margin-left:50px;'>
+    <img align='center' alt='gabriel-TS' height='50' width='50' src="https://github.com/Gabriel-Vict0r/Gabriel-Vict0r/blob/main/typescript.png" title="typescript icons" stype='margin-left:50px;'>
       <img align="center" alt="Gabriel-React" height="50" width="50" src="https://cdn-icons-png.flaticon.com/512/1126/1126012.png" style="margin-left:50px;">
      <img align="center" alt="Gabriel-sass" height="50" width="50" src="https://cdn-icons-png.flaticon.com/512/5968/5968358.png" style="margin-left:50px;">
     <img align="center" alt="Gabriel-styled-components" height="50" width="50" src="https://miro.medium.com/max/480/1*Iohnw2aOQ5EBghVoqKA7VA.png" style="margin-left:50px;">
