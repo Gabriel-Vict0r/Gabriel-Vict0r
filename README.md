@@ -2,7 +2,7 @@
 
   ##
 
-- 🌱 Studying Web Development ( Javascript | React.js | TypeScript| Next.js | TailwindCSS | styled-components | Sass | Node.JS | Express)
+- 🌱 Studying Web Development ( Javascript | TypeScript| Next.js | PostgreSQL | SQL | Node.JS | Express)
 - 📫 Email for contact: victorgabriel730@gmail.com
 - :rocket: pt-BR/en-US
 
