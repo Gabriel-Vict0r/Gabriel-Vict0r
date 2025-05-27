@@ -1,8 +1,7 @@
   ## Hello! I'm Gabriel Victor 
 
   ##
-
-- 🌱 Full Stack Developer ( Javascript | TypeScript| Next.js | PostgreSQL | SQL | Node.JS | Express)
+- 🌱 Full Stack Developer ( Javascript | TypeScript| | Node.JS | Next.js | C# | .NET Core | PostgreSQL | SQL SERVER | SQL | Express)
 - 📫 Email for contact: victorgabriel730@gmail.com
 - :rocket: pt-BR/en-US
 
